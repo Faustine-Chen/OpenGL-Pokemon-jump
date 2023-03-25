@@ -1,4 +1,4 @@
-# OpenGL-Pokemon-jump
+# OpenGL-Pokemon-Jump
 <h5> 這是一款由doodle jump發想的劇情遊戲，利用C++&OpenGL完成。<br />
 所有圖案皆由openGL 繪製而成，遊戲中包含動畫、聲音、時間處理、鍵盤滑鼠控制以及大量的圖形繪製。</h5>
 
